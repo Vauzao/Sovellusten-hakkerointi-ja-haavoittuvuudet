@@ -13,3 +13,5 @@
 ![alt text](zip6.jpg)
 - Ratkaisu: 
 ![alt text](zip7.jpg)
+
+## b)

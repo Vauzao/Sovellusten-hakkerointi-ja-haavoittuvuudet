@@ -21,3 +21,9 @@
 ![alt text](salasana1.jpg)
 - Ratkaisu
 ![alt text](salasana2.jpg)
+
+## c)
+
+
+- Ratkaisu: FLAG{Tero-0e3bed0a89d8851da933c64fefad4ff2}
+

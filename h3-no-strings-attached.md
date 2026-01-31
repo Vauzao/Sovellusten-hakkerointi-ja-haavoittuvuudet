@@ -28,6 +28,7 @@
 - Sitten tietysti latasin UPX
 ![alt text](packd2.jpg)
 ![alt text](packd3.jpg)
+- Ja salasana löyti stringsillä
 ![alt text](packd4.jpg)
 - Ratkaisu: FLAG{Tero-0e3bed0a89d8851da933c64fefad4ff2}
 

@@ -9,6 +9,6 @@
 ![alt text](zip3.jpg)
 - Tutkin tiedostoa
 ![alt text](zip4.jpg)
-
+- Käytin strings ja löysin salasanan 
 ![alt text](zip6.jpg)
 ![alt text](zip7.jpg)

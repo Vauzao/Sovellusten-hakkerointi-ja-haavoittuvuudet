@@ -7,6 +7,7 @@
 ![alt text](zip2.jpg)
 - Siirryyin oikeaan diretoryyn
 ![alt text](zip3.jpg)
+- Tutkin tiedostoa
 ![alt text](zip4.jpg)
 
 ![alt text](zip6.jpg)

@@ -25,6 +25,7 @@
 ## c)
 - Binääristä löytyy numerot: 55 50 58 21, jotka kääntyvät muotoon UPX!
 ![alt text](packd1.jpg)
+- Sitten tietysti latasin UPX
 ![alt text](packd2.jpg)
 ![alt text](packd3.jpg)
 ![alt text](packd4.jpg)

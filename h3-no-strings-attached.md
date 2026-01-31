@@ -15,7 +15,9 @@
 ![alt text](zip7.jpg)
 
 ## b)
-
-![alt text](salasana1.jpg)
-![alt text](salasana2.jpg)
+- Avasin nano tiedoston
 ![alt text](salasana3.jpg)
+- Vauhdoin rivin: unsigned char enc[] = { 41, 59, 54, 59, 119, 50, 59, 49, 49, 63, 40, 51, 119, 105, 104, 107, 0 }; --> volatile unsigned char enc[] = { 41, 59, 54, 59, 119, 50, 59, 49, 49, 63, 40, 51, 119, 105, 104, 107, 0 };
+![alt text](salasana1.jpg)
+- Ratkaisu
+![alt text](salasana2.jpg)

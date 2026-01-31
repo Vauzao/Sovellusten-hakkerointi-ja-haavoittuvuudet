@@ -3,8 +3,9 @@
 ## a)
 - Latasin tiedoston
 ![alt text](zip1.jpg)
-- Listasin sen
+- Listasin sen ja unzippasin
 ![alt text](zip2.jpg)
+- 
 ![alt text](zip3.jpg)
 ![alt text](zip4.jpg)
 ![alt text](zip5.jpg)

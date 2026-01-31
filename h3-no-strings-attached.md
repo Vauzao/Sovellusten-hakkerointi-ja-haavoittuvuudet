@@ -8,6 +8,6 @@
 - Siirryyin oikeaan diretoryyn
 ![alt text](zip3.jpg)
 ![alt text](zip4.jpg)
-![alt text](zip5.jpg)
+
 ![alt text](zip6.jpg)
 ![alt text](zip7.jpg)

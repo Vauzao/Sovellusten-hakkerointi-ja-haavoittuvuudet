@@ -15,3 +15,7 @@
 ![alt text](zip7.jpg)
 
 ## b)
+
+![alt text](salasana1.jpg)
+![alt text](salasana2.jpg)
+![alt text](salasana3.jpg)

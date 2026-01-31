@@ -23,7 +23,7 @@
 ![alt text](salasana2.jpg)
 
 ## c)
-
+- Binääristä löytyy numerot: 55 50 58 21, jotka kääntyvät muotoon UPX!
 ![alt text](packd1.jpg)
 ![alt text](packd2.jpg)
 ![alt text](packd3.jpg)

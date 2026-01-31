@@ -11,4 +11,5 @@
 ![alt text](zip4.jpg)
 - Käytin strings ja löysin salasanan 
 ![alt text](zip6.jpg)
+- Ratkaisu: 
 ![alt text](zip7.jpg)

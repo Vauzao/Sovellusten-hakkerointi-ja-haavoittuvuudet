@@ -24,6 +24,9 @@
 
 ## c)
 
-
+![alt text](packd1.jpg)
+![alt text](packd2.jpg)
+![alt text](packd3.jpg)
+![alt text](packd4.jpg)
 - Ratkaisu: FLAG{Tero-0e3bed0a89d8851da933c64fefad4ff2}
 

@@ -1,5 +1,17 @@
 c)
   unzip -l ~/Downloads/OpenCalc.v3.2.1.apk | tail -n 40
+7
 
 8
- 
+
+unzip -l ~/Downloads/OpenCalc.v3.2.1.apk | grep -E 'classes[0-9]*\.dex'
+
+ - Sisältää yhden 1. dex tiedoston
+
+unzip -l ~/Downloads/OpenCalc.v3.2.1.apk | grep '\.so$' | head
+
+- Ei löydy native kirjastoa
+
+9
+
+10

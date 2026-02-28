@@ -1,8 +1,8 @@
 c)
   unzip -l ~/Downloads/OpenCalc.v3.2.1.apk | tail -n 40
-7
+-  ![alt text](7.jpg)
 
-8
+-  ![alt text](8.jpg)
 
 unzip -l ~/Downloads/OpenCalc.v3.2.1.apk | grep -E 'classes[0-9]*\.dex'
 
@@ -12,6 +12,6 @@ unzip -l ~/Downloads/OpenCalc.v3.2.1.apk | grep '\.so$' | head
 
 - Ei löydy native kirjastoa
 
-9
+-  ![alt text](9.jpg)
 
-10
+-  ![alt text](10.jpg)
